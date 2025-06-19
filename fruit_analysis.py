@@ -164,5 +164,5 @@ def analyze_fruit(image_path, model):
 
 # === Example usage ===
 if __name__ == "__main__":
-    image_path = "fruits-360_dataset_100x100/fruits-360/Test/Apple Red 1/4_100.jpg"  # ← Change this path
+    image_path = "fruits-360_dataset_100x100/fruits-360/Test/Apple 6/r1_255_100.jpg"  # ← Change this path
     analyze_fruit(image_path, model)
